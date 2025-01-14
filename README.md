@@ -29,10 +29,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Hjuiihu/Hjuiihu/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/bc728apg2liw2mdlh3j060fuw">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=bc728apg2liw2mdlh3j060fuw&count=5&unique=false" alt="Spotify recently played"  />
