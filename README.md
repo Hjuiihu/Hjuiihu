@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/427932177397841935/1328588764376862741/Captulkolpkmre.PNG?ex=67874035&is=6785eeb5&hm=0302c7b3b1823113385d055ff4513008db1bbf148f061255b720e6485707196d&"  />
+<img align="right" height="144" src="https://cdn.discordapp.com/attachments/427932177397841935/1328588764376862741/Captulkolpkmre.PNG?ex=67874035&is=6785eeb5&hm=0302c7b3b1823113385d055ff4513008db1bbf148f061255b720e6485707196d&"  />
 
 ###
 
