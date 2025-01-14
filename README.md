@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="left">Hello World!!</p>
 
-<!--
-**Hjuiihu/Hjuiihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/427932177397841935/1328588764376862741/Captulkolpkmre.PNG?ex=67874035&is=6785eeb5&hm=0302c7b3b1823113385d055ff4513008db1bbf148f061255b720e6485707196d&"  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hjuiihu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hjuiihu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="delazdr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://x.com/hjuiihu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.patreon.com/c/hjuiihu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="patreon logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Hjuiihu/Hjuiihu/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/bc728apg2liw2mdlh3j060fuw">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bc728apg2liw2mdlh3j060fuw&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
